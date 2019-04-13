@@ -1,1 +1,0 @@
-## Project Yandex Map Commit
