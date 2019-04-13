@@ -1,7 +1,5 @@
 # Мои проекты
 
-##  F
-
 ## [Друго Фильтр](https://ilyatag.github.io/PrVkFriendsFilter)
 
 - Приложение предстовляет из себя 2 списка.  
